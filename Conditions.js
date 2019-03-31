@@ -16,6 +16,7 @@ if (number % 2 === 0) {
     console.log("odd");
 }
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Musical Groups (3-3)
@@ -41,6 +42,7 @@ if (musicians <= 0) {
     console.log("not a group");
 }
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Murder Mystery (3-4)
@@ -79,6 +81,7 @@ if (solved) {
     console.log(suspect + " did it in the " + room + " with the " + weapon + "!");
 }
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz - Checking Your Balance (3-5)
@@ -108,6 +111,7 @@ if (checkBalance === true) {
     console.log("Thank you. Have a nice day!");
 }
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Ice Cream (3-6)
@@ -137,6 +141,7 @@ if ((flavor === "vanilla" || flavor === "chocolate") &&
     console.log("I'd like two scoops of " + flavor + " ice cream in a " + vessel + " with " + toppings + ".");
 }
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: What do I Wear? (3-7)
@@ -172,6 +177,7 @@ if ((shirtWidth >= 18 && shirtWidth < 20) && (shirtLength >= 28 && shirtLength <
     console.log("N/A")
 }
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz - Navigating the Food Chain (3-8)
@@ -195,6 +201,7 @@ var category = eatsPlants?eatsAnimals? "omnivore" : "herbivore" : eatsAnimals? "
 
 console.log(category);
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Back to School (3-9)
