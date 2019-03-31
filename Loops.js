@@ -23,6 +23,7 @@ while (x <= 20) {
     x++;
 }
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: 99 Bottles of Juice (4-2)
@@ -42,7 +43,8 @@ while (num > 0) {
 
     // check value of num
     if (num === 1) {
-        // 99 bottles of juice on the wall! 99 bottles of juice! Take one down, pass it around... 98 bottles of juice on the wall!
+        // 99 bottles of juice on the wall! 99 bottles of juice! Take one down, pass it around... 98 bottles of juice
+        // on the wall!
         lyrics = num + " bottle of juice on the wall! " + num + " bottle of juice! Take one down, pass it " +
             "around... " + (num - 1) + " bottles of juice on the wall!";
     } else if (num - 1 === 1) {
@@ -62,6 +64,7 @@ while (num > 0) {
     num = num - 1;
 }
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Countdown, Liftoff! (4-3)
@@ -93,6 +96,7 @@ while (seconds >= 0) {
     seconds = seconds - 1;
 }
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Changing the Loop (4-4)
@@ -103,6 +107,7 @@ for (var x = 9; x >= 1; x--) {
     console.log("hello " + x);
 }
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Fix the Error 1 (4-5)
@@ -113,6 +118,7 @@ for (var x = 5; x <= 9; x++) {
     console.log(x);
 }
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Fix the Error 2 (4-6)
@@ -123,6 +129,7 @@ for (var k = 0; k < 200; k++) {
     console.log(k);
 }
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Factorials (4-7)
@@ -136,6 +143,7 @@ for (var i = 1; i <= number; i++) {
 }
 console.log(solution);
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Find my Seat (4-8)
