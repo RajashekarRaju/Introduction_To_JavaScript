@@ -8,6 +8,7 @@ function laugh() {
 }
 console.log(laugh());
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Laugh it Off 2 (5-2)
@@ -28,6 +29,7 @@ function laugh(num) {
 }
 console.log(laugh(3));
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Build A Triangle (5-3)
@@ -54,6 +56,7 @@ function buildTriangle(width) {
 // test your code by uncommenting the following line
 console.log(buildTriangle(10));
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Laugh (5-4)
@@ -68,6 +71,7 @@ var laugh = function(num) {
 };
 console.log(laugh(10));
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Cry (5-5)
@@ -79,6 +83,7 @@ var cry = function crying() {
 };
 console.log(cry());
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Inline Functions (5-6)
