@@ -8,6 +8,7 @@
 // this expression equals 4, change it to equal 42
 console.log((1 + 3 - 2) * 21);
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Converting Tempatures (2-2)
@@ -24,12 +25,14 @@ var celsius = 12;
 var fahrenheit = celsius * 1.8 + 32;
 console.log(fahrenheit);
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Favorite Food (2-3)
  */
 console.log("Chicken");
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: String Equality for All (2-4)
@@ -39,6 +42,7 @@ console.log("Chicken");
 var answer = "ALL Strings are CrEaTeD equal" == "ALL Strings are CrEaTeD equal";
 console.log(answer);
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: All Tied Up (2-5)
@@ -46,6 +50,7 @@ console.log(answer);
 var joke = "Why couldn't the shoes go out and play?\nThey were all tied up!";
 console.log(joke);
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Yosa Buson (2-6)
@@ -56,6 +61,7 @@ var haikuThree = "In the east.";
 var haiku = haikuOne + haikuTwo + haikuThree;
 console.log(haiku);
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Semicolons! (2-8)
@@ -66,6 +72,7 @@ var thingOne = "red";
 var thingTwo = "blue";
 console.log(thingOne + " " + thingTwo);
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: What's my Name? (2-9)
@@ -75,6 +82,7 @@ console.log(thingOne + " " + thingTwo);
 var fullName = "K E Rajasekhar";
 console.log(fullName);
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: Out to Dinner (2-10)
@@ -87,6 +95,7 @@ var total = bill + tip;
 var finalTotal = total.toFixed(2);
 console.log("$" + finalTotal);
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: MadLibs (2-11)
@@ -94,7 +103,8 @@ console.log("$" + finalTotal);
  * 1. Declare a madLib variable
  * 2. Use the adjective1, adjective2, and adjective3 variables to set the madLib variable to the message:
  *
- * 'The Intro to JavaScript course is amazing. James and Julia are so fun. I cannot wait to work through the rest of this entertaining content!'
+ * 'The Intro to JavaScript course is amazing. James and Julia are so fun. I cannot wait to work through the rest of
+ * this entertaining content!'
  */
 var adjective1 = 'amazing';
 var adjective2 = 'fun';
@@ -104,6 +114,7 @@ var adjective3 = 'entertaining';
 var madLib = "The Intro to JavaScript course is " + adjective1 + "." + " James and Julia are so " + adjective2 + "." + " I cannot wait to work through the rest of this " + adjective3 + " content!";
 console.log(madLib);
 
+// *********************************************************************************************************************
 
 /*
  * Programming Quiz: One Awesome Message (2-12)
